@@ -1,0 +1,6 @@
+use this code in jupyter terminal to launch the app of sentiment analysis
+
+
+conda activate streamlit_env
+cd "C:\Users\ASUS\Desktop\projects\DATA SCIENCE Sentiment Analysis"
+streamlit run app.py
